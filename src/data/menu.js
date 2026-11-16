@@ -1,0 +1,16 @@
+// Edit product names, prices, descriptions, images and availability here.
+export const menu = [
+  { id:'kachori', name:'Aligarh Kachori', category:'morning', price:25, description:'खस्ता कचौड़ी और मसालेदार आलू सब्ज़ी।', image:'https://pub-8fb728ccc32b4c72a6f05fff3cf3d811.r2.dev/Golden%20Kachori%20Thali%20with%20Rustic%20Sides.png', badge:'Bestseller', featured:true },
+  { id:'jalebi', name:'Hot Jalebi', category:'morning', price:40, description:'गरमा-गरम, कुरकुरी और रसीली जलेबी।', image:'https://images.unsplash.com/photo-1601303516534-9b8c2f0b6b6b?auto=format&fit=crop&w=900&q=85' },
+  { id:'samosa', name:'Punjabi Samosa', category:'morning', price:20, description:'मसालेदार आलू की भरावन वाला देसी समोसा।', image:'https://images.unsplash.com/photo-1601050690117-94f5f6fa8bd7?auto=format&fit=crop&w=900&q=85' },
+  { id:'raita', name:'Fresh Raita', category:'morning', price:30, description:'ठंडा, ताज़ा और मसालों से सजा रायता।', image:'https://images.unsplash.com/photo-1596797038530-2c107229654b?auto=format&fit=crop&w=900&q=85' },
+  { id:'bread-pakoda', name:'Bread Pakoda', category:'morning', price:25, description:'बाहर से कुरकुरा, अंदर से नरम।', image:'https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?auto=format&fit=crop&w=900&q=85' },
+  { id:'cold-drink-am', name:'Cold Drinks', category:'morning', price:30, description:'आपकी पसंद की chilled drink।', image:'https://images.unsplash.com/photo-1581006852262-e4307cf6283a?auto=format&fit=crop&w=900&q=85' },
+  { id:'steamed-momos', name:'Steamed Momos', category:'evening', price:60, description:'नरम वेज मोमोज़ और तीखी चटनी।', image:'https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=900&q=85' },
+  { id:'fried-momos', name:'Fried Momos', category:'evening', price:70, description:'Golden fried momos with spicy dip.', image:'https://images.unsplash.com/photo-1625220194771-7eb00b9ab9e2?auto=format&fit=crop&w=900&q=85' },
+  { id:'kurkure-momos', name:'Kurkure Momos', category:'evening', price:80, description:'Extra crunchy outside, juicy inside.', image:'https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?auto=format&fit=crop&w=900&q=85' },
+  { id:'paneer-momos', name:'Paneer Momos', category:'evening', price:80, description:'पनीर की स्वादिष्ट भरावन के साथ।', image:'https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=900&q=85' },
+  { id:'cold-drink-pm', name:'Cold Drinks', category:'evening', price:30, description:'आपकी पसंद की chilled drink।', image:'https://images.unsplash.com/photo-1581006852262-e4307cf6283a?auto=format&fit=crop&w=900&q=85' },
+  { id:'veg-thali', name:'Veg Khana Plate', category:'evening', price:120, description:'घर जैसा स्वाद, भरपूर शाकाहारी थाली।', image:'https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=900&q=85' },
+  { id:'raita-pm', name:'Fresh Raita', category:'evening', price:30, description:'ठंडा, ताज़ा और मसालों से सजा रायता।', image:'https://images.unsplash.com/photo-1596797038530-2c107229654b?auto=format&fit=crop&w=900&q=85' }
+];
